@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="github.livesense.liveSense.fragment.javax.jws.jre.1.6" type="repository">
+    <properties maven-id="com.github.livesense:org.liveSense.fragment.javax.jws-jre-1.6:1.0.5" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.liveSense.fragment.javax.jws-jre-1.6-1.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
